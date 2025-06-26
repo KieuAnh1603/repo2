@@ -12,7 +12,7 @@ public class Maintest {
         //     System.out.println(g.getSo());
         // }
         Custumer khangia1 = new Custumer("Kieu tuan anh");
-        Movie m1 = new Movie("Transformer", 16/3);
+        Movie m1 = new Movie("Transformer", 1);
         // ShowTime t1= new ShowTime(16:05, 5);
         
 
