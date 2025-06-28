@@ -32,7 +32,7 @@ public class Customer {
         }else {
             for(int i=0 ; i< orderHistory.size(); i++){
 
-                System.out.println( name + " la: " + orderHistory.get(i).getOrderId());
+                System.out.println( (i+1) + ". Ma don hang"+ " : " + orderHistory.get(i).getOrderId()+ " cua " +name );
             }
         }
     }

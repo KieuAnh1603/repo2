@@ -1,6 +1,7 @@
 package Online;
 
 public class OrderItem {
+    
     private Product sanpham;
     private int quantity;
 
